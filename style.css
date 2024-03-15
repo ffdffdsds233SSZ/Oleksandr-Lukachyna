@@ -1,0 +1,46 @@
+body {
+    background-image: url(https://oir.mobi/uploads/posts/2024-02/thumbs/1709236281_oir-mobi-p-kachestvennii-fon-45.jpg);
+        background-size: cover; /* розтягнути зображення на весь екран */
+    }
+   
+
+h1, p{
+    color:white;
+    text-align: center;
+}
+
+header, h3{
+    background-color: coral;
+    border: 5px double black;
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 5px;
+}
+.in_img{
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+}
+
+img{
+    height: 450px;
+    width: 650px;
+    display: block;
+    margin: 0 auto;
+}
+.stats{
+    
+    background-color: coral;
+    margin: 0 auto;
+    border: 1px solid white;
+    color:rgb(0, 0, 0);
+    padding: 10px;
+}
+tr,td{
+    text-align: center;
+     border: 1px double white;
+}
+a{
+    text-decoration: none;
+}
